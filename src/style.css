@@ -1,0 +1,8 @@
+.shape {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #000000;
+}
